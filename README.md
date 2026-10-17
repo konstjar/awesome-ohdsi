@@ -136,6 +136,7 @@
 - [Eos](https://github.com/SevKohler/Eos) - ETL engine to transform openEHR into OMOP.
 - [kotobuki](https://github.com/thehyve/kotobuki) - Update Usagi mappings programmatically.
 - [convert-pheno](https://github.com/CNAG-Biomedical-Informatics/convert-pheno) - Interconversion of standard phenotypic data models including OMOP.
+- [EHR2Trace](https://github.com/Yangxinyee/ehr2trace) - Converts EHR exports to OMOP CDM 5.4 and MEDS with row-level lineage and output checks.
 
 ## Python Tools
 
